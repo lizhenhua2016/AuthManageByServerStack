@@ -1,6 +1,6 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="Role.cs" company="">
-//   
+// <copyright file="Role.cs" company="abc">
+//   lizhenhua
 // </copyright>
 // <summary>
 //   Defines the Role type.

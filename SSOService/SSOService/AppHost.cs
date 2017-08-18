@@ -1,6 +1,6 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="AppHost.cs" company="">
-//   
+// <copyright file="AppHost.cs" company="lizhenhua">
+//   lizhenhua
 // </copyright>
 // <summary>
 //   Defines the AppHost type.
